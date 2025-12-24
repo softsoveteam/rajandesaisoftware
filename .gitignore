@@ -1,0 +1,7 @@
+config.json
+*.log
+*.mp4
+__pycache__/
+*.pyc
+videos/
+
